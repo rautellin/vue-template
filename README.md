@@ -1,5 +1,5 @@
 # vue-template
-Vue starter template with vue router
+Vue 3 starter template with vue router and vuex
 
 ## Project setup
 ```
